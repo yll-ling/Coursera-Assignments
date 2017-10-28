@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Cabin Sketch', cursive;
+	margin: 0;
+	padding-top: 0;
+}
+.navbar {
+	background-color: #fff4e8;
+}
+.navbar-brand>h2:hover, .navbar-brand>h2:active {
+	opacity: 0.8;
+}
+#collapse-nav {
+	background-color: #fffbf7;
+}
+#collapse-nav li {
+	padding: 15px;
+}
+h1 {
+	font-family: 'Cabin Sketch', cursive;
+	padding-top: 60px;
+	padding-bottom: 30px;
+}
+hr {
+	width: 60%;
+	margin: 0 auto;
+	color: white;
+}
+.row {
+	padding: 30px 10px;
+}
+section h3 {
+	margin-top: 30px;
+	margin-bottom: -50px;
+}
+section p {
+	border: 1px solid black;
+	padding: 15px;
+	padding-top: 60px;
+	margin: 5px;
+}
+#chicken p {
+	background-color: #ffe8ee;
+}
+#beef p {
+	background-color: #e8f6ff;
+}
+#sushi p {
+	background-color: #f8ffef;
+}
+#back-to-top {
+	color: #ffb996;
+}
+#back-to-top:hover {
+	text-decoration-line: none;
+	opacity: 0.8;
+}
